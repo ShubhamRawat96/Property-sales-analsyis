@@ -1,0 +1,4 @@
+## 📊 Project Highlights
+- Analyze property value trends
+- Price deviations and city-wise analysis
+- Agents' performance overview
